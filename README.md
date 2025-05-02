@@ -32,6 +32,8 @@ E-commerce platforms specifically benefit from CQRS architecture for several com
 ## Project Structure
 
 The project is organized into two main microservices:
+![ChatGPT Image May 2, 2025, 07_27_56 PM](https://github.com/user-attachments/assets/fca7cd93-0769-4244-84ff-06d5de4a2825)
+
 
 ### 1. Product-Query-Microservice
 
